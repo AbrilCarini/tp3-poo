@@ -1,4 +1,4 @@
-package tp3_poo.poo;
+package poo2021.poo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

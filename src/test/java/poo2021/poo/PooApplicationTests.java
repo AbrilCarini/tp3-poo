@@ -1,4 +1,4 @@
-package tp3_poo.poo;
+package poo2021.poo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
